@@ -76,7 +76,7 @@ public final class Configuration {
     public static class Builder {
 
         private static final int MIN = 0;
-        private static final int MAX = 100;
+        private static final int MAX = 10;
         private static final int ATTEMPTS = 10;
 
         private int min = MIN;
